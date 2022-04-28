@@ -46,4 +46,9 @@ A machine can’t be either the first thing in the simulation or the final desti
 The time of each machine to process product is randomed (5 seconds at max).
 The rate of products entering the queues is also randomed (3 seconds at max).
 To start a new simulation means the previous simulation and design will be deleted permanently.
-### For better UML resolution open the following link:[Visual Paradigm Online Shared Diagram (visual-paradigm.com)](https://online.visual-paradigm.com/share.jsp?id=313637343335352d31)
+### For better UML resolution open the following link:[Visual Paradigm Online Shared Diagram (visual-paradigm.com)](https://online.visual-paradigm.com/share.jsp?id=313637343335352d31).
+## Contributer:
+* [Bassant Yasser](https://github.com/Bassantyasser043)
+* [Mai Ahmed Hussein](https://github.com/MaiAhmedHussein)
+* [Habiba Osama](https://github.com/habibaosama)
+* [Toka Ashraf](https://github.com/TokaAshraf12)
